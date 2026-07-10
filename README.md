@@ -1,6 +1,6 @@
 # Projects-and-Coursework
 
-This repository contains selected projects completed throughout my Data Science coursework at the University of Illinois.
+This repository contains selected projects completed throughout my coursework at the University of Illinois.
 
 Topics include:
 
@@ -12,13 +12,3 @@ Topics include:
 - Decision Trees
 - Machine Learning
 - Model Evaluation
-
-## Project List
-
-| Project | Skills | HTML |
-|----------|--------|------|
-| Data Cleaning | Pandas | ✔ |
-| Regression | sklearn | ✔ |
-| Decision Trees | sklearn | ✔ |
-| KNN | sklearn | ✔ |
-| Final Project | ML | ✔ |
