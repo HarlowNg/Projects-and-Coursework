@@ -37,7 +37,7 @@ This project was completed with a partner, **Flynn Huynh**, as part of a course 
 | **Flynn Huynh** | Data acquisition (Rotten Tomatoes + TMDB API), data cleaning, data integration, pipeline automation (`run_pipeline.sh`), Git repository management |
 | **Harlow Nguyen** (me) | Data quality assessment, exploratory data analysis, all visualizations, and finalizing the written report |
 
-Working as a team meant agreeing on a shared schema before either of us wrote analysis code, tracking data provenance so both of our pipeline stages stayed reproducible for the other person, and reviewing each other's findings before they made it into the final write-up. The result was a single coherent research narrative — "Do critics matter?" — built from verifiable work.
+Working as a team meant agreeing on a shared schema before either of us wrote analysis code, tracking data provenance so both of our pipeline stages stayed reproducible for the other person, and reviewing each other's findings before they made it into the final write-up. The result was a single coherent research narrative: "Do critics matter?".
 
 ## Visualization Highlights
 
@@ -86,7 +86,7 @@ A boxplot summarizing the central tendency and outliers in how critics score fil
 </tr>
 </table>
 
-Together, these plots turn a set of correlation coefficients into an intuitive story — critics and audiences broadly agree on quality, but that agreement has little bearing on what actually becomes popular. See the [full write-up](./Movie-Ratings-Analysis/README.md#findings) for the complete analysis, statistical tests, and takeaways.
+Together, these plots turn a set of correlation coefficients into an intuitive story that says critics and audiences broadly agree on quality, but that agreement has little bearing on what actually becomes popular. See the [full write-up](./Movie-Ratings-Analysis/README.md#findings) for the complete analysis, statistical tests, and takeaways.
 
 ## Repository Structure
 
