@@ -271,7 +271,7 @@ In summary, critics matter for quality perception, but critics do not matter for
  
 ---
  
-## Future Work [**(Harlow - Ờm I lowkey need ur help here, please change or edit whatever sounds weird)**]
+## Future Work
 
 Future work could investigate the role of genre, release platform, marketing spend, and franchise status as moderating variables in the critic score–popularity relationship.
 
