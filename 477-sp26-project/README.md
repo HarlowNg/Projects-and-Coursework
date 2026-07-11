@@ -24,8 +24,6 @@ After cleaning both datasets — parsing inconsistent date formats, stripping pe
 
 The project follows the USGS Science Data Lifecycle model: Plan -> Acquire -> Process -> Analyze -> Preserve -> Publish/Share. All code is organized into discrete, single-responsibility Python scripts (`acquire_rt.py`, `acquire_tmdb.py`, `clean.py`, `integrate.py`) in the `scripts` folder, chained together by `run_pipeline.sh`, enabling full reproducibility from a clean environment with a single command. We maintained Data Provenance by preserving raw inputs unmodified and logging all transformation decisions with row counts at each stage.
 
-[**Harlow — b nhớ điền khoảng 2–3 sentence summary of the key findings from your EDA here once analysis is complete.**]
-
 ---
 
 ## Data Profile
