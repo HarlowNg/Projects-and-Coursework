@@ -1,0 +1,11 @@
+requests
+pandas
+python-dotenv
+tqdm
+jupyter
+nbconvert
+seaborn
+matplotlib
+numpy
+scipy.stats
+dataframe_image
